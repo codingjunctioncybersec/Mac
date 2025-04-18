@@ -1,10 +1,10 @@
 To change your MAC address using macchanger, you need to:
 
 
-## Installing (Kali Linux/Termux):
+## Installation in Linux :
 
 ```
 git clone https://github.com/codingjunctioncybersec/hound
-cd hound
-bash hound.sh
+cd Mac
+bash Mac.sh
 ```
